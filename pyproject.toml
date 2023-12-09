@@ -1,0 +1,43 @@
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "greeter"
+version = "0.1.0"
+description = "Python template"
+license = "MIT"
+authors = ["Florian Vazelle <florian.vazelle@vivaldi.net>"]
+readme = ["README.md"]
+repository = "https://github.com/MechanicalFlower/python-template"
+include = ["LICENSE.md"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.scripts]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
+pre-commit = "^3.5.0"
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/MechanicalFlower/python-template/issues"
+"Changelog" = "https://github.com/MechanicalFlower/python-template/blob/main/CHANGELOG.md"
+
+[tool.black]
+target-version = ["py310"]
+
+[tool.isort]
+multi_line_output = 3
+include_trailing_comma = true
+
+[tool.ruff]
+line-length = 88
+
+[tool.mypy]
+strict = true
+exclude = 'tests'
+
+[tool.bandit]
+exclude_dirs = ['tests']
