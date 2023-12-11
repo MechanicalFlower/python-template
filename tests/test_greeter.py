@@ -1,2 +1,4 @@
+from greeter import greeter
+
 def test_dummy():
-    print("Hello")
+    greeter("Hello")

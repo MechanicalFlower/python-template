@@ -2,7 +2,7 @@
 
 # `📑 greeter`
 
-![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-0a7bbc?logo=python&logoColor=white)
+![Python Version](https://img.shields.io/badge/python-3.100%20|%203.110%20|%203.12-0a7bbc?logo=python&logoColor=white)
 ![license](https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative&logoColor=white)
 [![standard-readme compliant](https://img.shields.io/badge/readme-standard-brightgreen.svg?logo=readme&logoColor=white)](https://github.com/RichardLitt/standard-readme)
 
