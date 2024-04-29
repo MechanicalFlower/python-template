@@ -18,7 +18,7 @@ python = "^3.10"
 [tool.poetry.scripts]
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^8.1.1"
+pytest = "^8.2.0"
 pre-commit = "^3.6.2"
 
 [tool.poetry.urls]
