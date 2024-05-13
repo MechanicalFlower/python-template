@@ -19,7 +19,7 @@ python = "^3.10"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.2.0"
-pre-commit = "^3.6.2"
+pre-commit = "^3.7.1"
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/MechanicalFlower/python-template/issues"
