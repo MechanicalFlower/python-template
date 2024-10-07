@@ -10,7 +10,7 @@ Inspired from [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Security
 ### Dependencies
 - Bump `actions/setup-python` from 4 to 5 ([#1](https://github.com/MechanicalFlower/python-template/pull/1))
-- Bump `pre-commit` from 3.5.0 to 3.8.0 ([#2](https://github.com/MechanicalFlower/python-template/pull/2), [#8](https://github.com/MechanicalFlower/python-template/pull/8), [#9](https://github.com/MechanicalFlower/python-template/pull/9), [#17](https://github.com/MechanicalFlower/python-template/pull/17), [#28](https://github.com/MechanicalFlower/python-template/pull/28))
+- Bump `pre-commit` from 3.5.0 to 4.0.0 ([#2](https://github.com/MechanicalFlower/python-template/pull/2), [#8](https://github.com/MechanicalFlower/python-template/pull/8), [#9](https://github.com/MechanicalFlower/python-template/pull/9), [#17](https://github.com/MechanicalFlower/python-template/pull/17), [#28](https://github.com/MechanicalFlower/python-template/pull/28), [#38](https://github.com/MechanicalFlower/python-template/pull/38))
 - Bump `sigstore/gh-action-sigstore-python` from 2.1.0 to 3.0.0 ([#5](https://github.com/MechanicalFlower/python-template/pull/5), [#25](https://github.com/MechanicalFlower/python-template/pull/25))
 - Bump `actions/download-artifact` from 3 to 4 ([#4](https://github.com/MechanicalFlower/python-template/pull/4))
 - Bump `actions/upload-artifact` from 3 to 4 ([#3](https://github.com/MechanicalFlower/python-template/pull/3))
